@@ -1,3 +1,9 @@
 {
-	"2018-05-12":"https://leo678.github.io/jaction/html/firstOne.html"	
+	"remind_state":true,
+	"remind_title":"提示：",
+	"remind_button_title":"我知道了",
+	"last_open_time":"2018-05-12",
+	"remind_content":"\r\n\r\n\r\n\r\n              该休息一下了",
+	"remind_minutes":55,
+	"update_interval_minutes":20
 }
