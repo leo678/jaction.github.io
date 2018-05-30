@@ -1,11 +1,11 @@
 {
 	"remind_state":true,
-	"remind_title":"提示：",
-	"remind_button_title":"我知道了",
-	"remind_content":"只要认真计划一件事，并且一边坚持一边调整，往往会完成得十分出色。懈怠的情绪谁都会有，不要担心自己比别人走得慢，也不要因暂时的挫折心灰意冷，只要不断调整心态，不停下脚步，最终能抵达终点。",
+	"remind_title":"对鲁晓提问：",
+	"remind_button_title":"我愿意！！",
+	"remind_content":"\n\n\n\n\n\t      你愿意嫁给我吗？\n\n\t      —2018-05-30",
 	"remind_minutes":55,
 	"update_interval_minutes":20,
-	"last_open_time":"2018-05-29",
+	"last_open_time":"2018-05-30",
 	"last_open_html_url":"https://item.jd.com/3576592.html",
 	"2018-05-13":"https://tool.lu/coderunner/"
 }
