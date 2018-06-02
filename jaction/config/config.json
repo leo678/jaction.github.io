@@ -1,7 +1,7 @@
 {
 	"remind_state":true,
 	"remind_title":"给我道歉！",
-	"remind_button_title":"哼！",
+	"remind_button_title":"给我道歉！",
 	"remind_content":"\n\n\n\n\n\t   不给我道歉这个事没完！！！",
 	"remind_minutes":55,
 	"update_interval_minutes":20,
