@@ -1,11 +1,11 @@
 {
 	"remind_state":true,
-	"remind_title":"给我道歉！",
-	"remind_button_title":"给我道歉！",
-	"remind_content":"\n\n\n\n\n\t   不给我道歉这个事没完！！！",
+	"remind_title":"tip:",
+	"remind_button_title":"关闭",
+	"remind_content":"\n\n\n\n\n\t   晚上早点睡觉！",
 	"remind_minutes":55,
 	"update_interval_minutes":20,
-	"last_open_time":"2018-05-30",
-	"last_open_html_url":"https://item.jd.com/3576592.html",
+	"last_open_time":"2018-06-03",
+	"last_open_html_url":"http://music.163.com/#/song?id=190993&autoplay=true",
 	"2018-05-13":"https://tool.lu/coderunner/"
 }
